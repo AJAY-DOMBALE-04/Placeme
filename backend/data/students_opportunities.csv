@@ -1,0 +1,151 @@
+StudentName,RollNumber,Branch,CGPA,Skills,Company,JobRole,Package,Year,OpportunityType
+Ajay,1,CSE,9.0,"python, machine learning, sql",Google,Data Scientist,12.0,2024,Job
+Atharva,2,CSE,8.6,"excel, python, powerbi",Microsoft,Data Analyst,6.5,2025,Internship
+Sneha,3,IT,9.1,"java, aws, microservices",Amazon,Backend Engineer,14.0,2024,Job
+Riya,4,CSE,8.4,"html, css, javascript",Infosys,Web Developer,4.5,2025,Internship
+Rohan,5,CSE,8.7,"c++, java, dsa",TCS,Software Engineer,7.0,2024,Job
+Meera,6,CSE,8.5,"cloud, python, linux",IBM,Cloud Intern,5.0,2025,Internship
+Varun,7,MBA,8.8,"excel, sql, communication",Deloitte,Business Analyst,10.0,2024,Job
+Kavya,8,CSE,8.3,"testing, selenium, java",Accenture,QA Intern,4.0,2025,Internship
+Pranav,9,CSE,8.9,"python, dsa, flask",Google,Backend Developer,11.0,2024,Job
+Aditi,10,IT,8.7,"html, css, react, javascript",Amazon,Frontend Developer,9.5,2024,Job
+Siddharth,11,CSE,9.2,"java, spring boot, mysql",Infosys,Backend Engineer,6.8,2025,Internship
+Neha,12,IT,8.5,"python, pandas, numpy, sql",Microsoft,Data Analyst,6.0,2025,Internship
+Yash,13,CSE,8.4,"node.js, express, mongodb",TCS,Full Stack Developer,7.5,2024,Job
+Pooja,14,CSE,8.6,"wordpress, php, mysql",Wipro,Web Developer,5.0,2025,Internship
+Kiran,15,IT,8.3,"python, tableau, data visualization",Capgemini,Data Analyst,6.2,2024,Job
+Mohan,16,CSE,8.9,"java, android, firebase",Google,Mobile App Developer,10.0,2024,Job
+Shruti,17,CSE,8.8,"c#, .net, sql server",Accenture,Software Engineer,6.5,2025,Internship
+Harsh,18,CSE,8.7,"python, django, rest api",IBM,Backend Developer,7.2,2024,Job
+Simran,19,IT,8.4,"excel, communication, sql",Deloitte,Business Analyst,8.0,2024,Job
+Aniket,20,CSE,8.5,"react, redux, javascript",Amazon,Frontend Developer,9.0,2024,Job
+Tanvi,21,CSE,8.9,"python, deep learning, keras",Google,ML Engineer,13.0,2024,Job
+Raj,22,IT,8.6,"java, spring, hibernate",Infosys,Backend Engineer,6.7,2025,Internship
+Divya,23,CSE,8.5,"html, css, bootstrap",Wipro,Web Developer,4.8,2025,Internship
+Abhishek,24,CSE,8.8,"node.js, react, aws",TCS,Full Stack Developer,8.0,2024,Job
+Manisha,25,IT,8.7,"python, flask, sql",IBM,Backend Developer,6.9,2024,Job
+Saurabh,26,CSE,8.4,"java, selenium, junit",Capgemini,QA Engineer,5.5,2025,Internship
+Payal,27,CSE,8.3,"excel, tableau, sql",Microsoft,Data Analyst,6.4,2024,Job
+Vinay,28,IT,9.1,"python, machine learning, tensorflow",Google,Data Scientist,12.5,2024,Job
+Ananya,29,CSE,8.9,"react, javascript, next.js",Amazon,Frontend Developer,9.2,2024,Job
+Gaurav,30,CSE,8.6,"c++, dsa, competitive programming",TCS,Software Engineer,7.4,2024,Job
+Isha,31,IT,8.5,"java, android, sqlite",Infosys,Mobile App Developer,6.1,2025,Internship
+Sameer,32,CSE,8.7,"python, flask, postgresql",Accenture,Backend Developer,7.0,2024,Job
+Reema,33,CSE,8.4,"html, css, wordpress",Wipro,Web Developer,4.6,2025,Internship
+Aditya,34,IT,8.9,"python, opencv, computer vision",Google,AI Engineer,13.0,2024,Job
+Priya,35,CSE,8.8,"javascript, react, firebase",Amazon,Frontend Developer,9.1,2024,Job
+Chirag,36,CSE,8.6,"java, spring boot, mysql",Infosys,Backend Engineer,6.8,2025,Internship
+Ritika,37,IT,8.5,"excel, sql, powerbi",Microsoft,Data Analyst,6.3,2025,Internship
+Nikhil,38,CSE,8.4,"node.js, express, mongodb",TCS,Full Stack Developer,7.5,2024,Job
+Snehal,39,CSE,8.7,"php, laravel, mysql",Wipro,Web Developer,5.5,2024,Job
+Vikas,40,IT,8.3,"python, tableau, pandas",Capgemini,Data Analyst,6.2,2024,Job
+Shweta,41,CSE,8.9,"java, android, firebase",Google,Mobile App Developer,10.2,2024,Job
+Arjun,42,CSE,8.8,"c#, .net, sql server",Accenture,Software Engineer,6.4,2025,Internship
+Komal,43,CSE,8.7,"python, django, rest api",IBM,Backend Developer,7.3,2024,Job
+Deepak,44,IT,8.4,"excel, communication, sql",Deloitte,Business Analyst,8.1,2024,Job
+Bhavana,45,CSE,8.5,"react, redux, javascript",Amazon,Frontend Developer,9.0,2024,Job
+Yogesh,46,CSE,8.9,"python, deep learning, keras",Google,ML Engineer,13.2,2024,Job
+Harini,47,IT,8.6,"java, spring, hibernate",Infosys,Backend Engineer,6.7,2025,Internship
+Lokesh,48,CSE,8.5,"html, css, bootstrap",Wipro,Web Developer,4.9,2025,Internship
+Sanya,49,CSE,8.8,"node.js, react, aws",TCS,Full Stack Developer,8.1,2024,Job
+Raghav,50,IT,8.7,"python, flask, sql",IBM,Backend Developer,6.9,2024,Job
+Meenal,51,CSE,8.6,"java, selenium, junit",Capgemini,QA Engineer,5.6,2025,Internship
+Omkar,52,CSE,8.3,"excel, tableau, sql",Microsoft,Data Analyst,6.5,2024,Job
+Rohit,53,IT,9.0,"python, machine learning, tensorflow",Google,Data Scientist,12.6,2024,Job
+Vaishnavi,54,CSE,8.9,"react, javascript, next.js",Amazon,Frontend Developer,9.3,2024,Job
+Karthik,55,CSE,8.5,"c++, dsa, problem solving",TCS,Software Engineer,7.3,2024,Job
+Nisha,56,IT,8.4,"java, android, sqlite",Infosys,Mobile App Developer,6.0,2025,Internship
+Devansh,57,CSE,8.8,"python, flask, postgresql",Accenture,Backend Developer,7.1,2024,Job
+Rupal,58,CSE,8.5,"html, css, wordpress",Wipro,Web Developer,4.7,2025,Internship
+Parth,59,IT,8.9,"python, opencv, computer vision",Google,AI Engineer,13.1,2024,Job
+Ishani,60,CSE,8.7,"javascript, react, firebase",Amazon,Frontend Developer,9.2,2024,Job
+Anirudh,61,CSE,8.6,"java, spring boot, mysql",Infosys,Backend Engineer,6.9,2025,Internship
+Swati,62,IT,8.4,"excel, sql, powerbi",Microsoft,Data Analyst,6.4,2025,Internship
+Tarun,63,CSE,8.5,"node.js, express, mongodb",TCS,Full Stack Developer,7.6,2024,Job
+Anushka,64,CSE,8.7,"php, laravel, mysql",Wipro,Web Developer,5.6,2024,Job
+Pradeep,65,IT,8.3,"python, tableau, pandas",Capgemini,Data Analyst,6.1,2024,Job
+Gayatri,66,CSE,8.9,"java, android, firebase",Google,Mobile App Developer,10.3,2024,Job
+Sumeet,67,CSE,8.8,"c#, .net, sql server",Accenture,Software Engineer,6.6,2025,Internship
+Mahima,68,CSE,8.7,"python, django, rest api",IBM,Backend Developer,7.4,2024,Job
+Farhan,69,IT,8.4,"excel, communication, sql",Deloitte,Business Analyst,8.2,2024,Job
+Roshni,70,CSE,8.5,"react, redux, javascript",Amazon,Frontend Developer,9.1,2024,Job
+Sameera,71,CSE,8.9,"python, deep learning, keras",Google,ML Engineer,13.3,2024,Job
+Abhinav,72,IT,8.6,"java, spring, hibernate",Infosys,Backend Engineer,6.8,2025,Internship
+Tanya,73,CSE,8.4,"html, css, bootstrap",Wipro,Web Developer,4.8,2025,Internship
+Viraj,74,CSE,8.8,"node.js, react, aws",TCS,Full Stack Developer,8.0,2024,Job
+Rhea,75,IT,8.7,"python, flask, sql",IBM,Backend Developer,6.8,2024,Job
+Girish,76,CSE,8.6,"java, selenium, junit",Capgemini,QA Engineer,5.4,2025,Internship
+Shivani,77,CSE,8.3,"excel, tableau, sql",Microsoft,Data Analyst,6.6,2024,Job
+Pankaj,78,IT,9.0,"python, machine learning, tensorflow",Google,Data Scientist,12.7,2024,Job
+Nandini,79,CSE,8.9,"react, javascript, next.js",Amazon,Frontend Developer,9.4,2024,Job
+Saket,80,CSE,8.5,"c++, dsa, problem solving",TCS,Software Engineer,7.2,2024,Job
+Aarohi,81,IT,8.4,"java, android, sqlite",Infosys,Mobile App Developer,6.2,2025,Internship
+Rajesh,82,CSE,8.8,"python, flask, postgresql",Accenture,Backend Developer,7.0,2024,Job
+Muskan,83,CSE,8.5,"html, css, wordpress",Wipro,Web Developer,4.9,2025,Internship
+Deepesh,84,IT,8.9,"python, opencv, computer vision",Google,AI Engineer,13.2,2024,Job
+Kanika,85,CSE,8.7,"javascript, react, firebase",Amazon,Frontend Developer,9.0,2024,Job
+Harshal,86,CSE,8.6,"java, spring boot, mysql",Infosys,Backend Engineer,6.7,2025,Internship
+Bhavya,87,IT,8.4,"excel, sql, powerbi",Microsoft,Data Analyst,6.5,2025,Internship
+Keshav,88,CSE,8.5,"node.js, express, mongodb",TCS,Full Stack Developer,7.7,2024,Job
+Saloni,89,CSE,8.7,"php, laravel, mysql",Wipro,Web Developer,5.7,2024,Job
+Navin,90,IT,8.3,"python, tableau, pandas",Capgemini,Data Analyst,6.0,2024,Job
+Chaitra,91,CSE,8.9,"java, android, firebase",Google,Mobile App Developer,10.4,2024,Job
+Kabir,92,CSE,8.8,"c#, .net, sql server",Accenture,Software Engineer,6.5,2025,Internship
+Suhana,93,CSE,8.7,"python, django, rest api",IBM,Backend Developer,7.5,2024,Job
+Darshan,94,IT,8.4,"excel, communication, sql",Deloitte,Business Analyst,8.0,2024,Job
+Mitali,95,CSE,8.5,"react, redux, javascript",Amazon,Frontend Developer,9.3,2024,Job
+Ayush,96,CSE,8.9,"python, deep learning, keras",Google,ML Engineer,13.4,2024,Job
+Ravina,97,IT,8.6,"java, spring, hibernate",Infosys,Backend Engineer,6.6,2025,Internship
+Hrithik,98,CSE,8.4,"html, css, bootstrap",Wipro,Web Developer,4.7,2025,Internship
+Shantanu,99,CSE,8.8,"node.js, react, aws",TCS,Full Stack Developer,8.2,2024,Job
+Ankita,100,IT,8.7,"python, flask, sql",IBM,Backend Developer,6.7,2024,Job
+Pradeep,101,CSE,8.7,"python, django, rest api",Infosys,Backend Developer,6.0,2024,Job
+Sanjana,102,IT,8.5,"html, css, javascript, react",TCS,Frontend Developer,5.5,2025,Internship
+Vikram,103,CSE,8.9,"java, spring boot, sql",Wipro,Java Developer,7.0,2024,Job
+Deepa,104,AI,9.1,"machine learning, python, numpy, pandas",Google,ML Engineer,14.5,2024,Job
+Ramesh,105,CSE,8.4,"c++, dsa, algorithms",Amazon,Software Engineer,12.0,2024,Job
+Anjali,106,IT,8.3,"node.js, express, mongodb",IBM,Full Stack Developer,6.5,2025,Internship
+Yogesh,107,CSE,8.6,"aws, docker, kubernetes",Microsoft,Cloud Engineer,11.0,2024,Job
+Harini,108,ECE,8.2,"iot, embedded systems, python",Bosch,IoT Engineer,5.0,2025,Internship
+Manoj,109,CSE,9.0,"react, next.js, javascript",Adobe,Frontend Developer,9.5,2024,Job
+Pooja,110,MBA,8.8,"excel, data analysis, sql",Deloitte,Data Analyst,7.5,2024,Job
+Rajeev,111,CSE,8.1,"testing, selenium, java",Cognizant,QA Engineer,5.0,2025,Internship
+Shweta,112,IT,8.9,"wordpress, php, mysql",Wix,Web Developer,6.5,2024,Job
+Amit,113,CSE,8.5,"python, flask, sql",Zoho,Backend Developer,6.0,2024,Job
+Priya,114,CSE,9.2,"machine learning, deep learning, tensorflow",NVIDIA,AI Engineer,15.0,2024,Job
+Karan,115,CSE,8.7,"java, hibernate, oracle",Oracle,Java Developer,10.0,2024,Job
+Divya,116,IT,8.3,"html, css, javascript, bootstrap",HCL,Web Designer,4.5,2025,Internship
+Suraj,117,CSE,8.8,"python, data mining, sql",IBM,Data Engineer,8.5,2024,Job
+Nisha,118,CSE,8.6,"react, redux, typescript",Infosys,Frontend Developer,6.0,2024,Job
+Arjun,119,IT,8.4,"node.js, express, mysql",Accenture,Backend Developer,6.5,2024,Job
+Bhavna,120,CSE,9.0,"cloud, azure, python",Microsoft,Cloud Solutions Engineer,12.0,2024,Job
+Ritika,121,ECE,8.5,"embedded c, verilog, fpga",Intel,Hardware Engineer,8.0,2024,Job
+Sameer,122,CSE,8.9,"angular, typescript, javascript",Google,Frontend Developer,14.0,2024,Job
+Anushka,123,IT,8.6,"flask, python, sql",Zoho,Backend Developer,6.0,2025,Internship
+Vivek,124,CSE,8.3,"machine learning, python, opencv",Tesla,Computer Vision Engineer,13.0,2024,Job
+Ravi,125,CSE,8.7,"spring boot, java, rest api",Infosys,Backend Developer,6.5,2024,Job
+Megha,126,MBA,8.8,"excel, tableau, sql",EY,Data Analyst,7.0,2024,Job
+Aakash,127,CSE,9.1,"python, keras, deep learning",OpenAI,AI Researcher,16.0,2024,Job
+Komal,128,IT,8.4,"html, css, javascript, vue.js",Capgemini,Frontend Developer,5.5,2025,Internship
+Harsh,129,CSE,8.9,"c#, .net, sql",Microsoft,Software Developer,10.5,2024,Job
+Sakshi,130,CSE,8.5,"python, pandas, powerbi",Google,Data Analyst,9.0,2024,Job
+Naveen,131,IT,8.3,"php, laravel, mysql",Wipro,Web Developer,6.0,2024,Job
+Smita,132,CSE,9.0,"react, node.js, mongodb",TCS,Full Stack Developer,7.5,2024,Job
+Tarun,133,AI,8.7,"machine learning, python, scikit-learn",IBM,ML Engineer,9.0,2024,Job
+Anita,134,CSE,8.4,"angular, javascript, css",HCL,Frontend Developer,5.5,2025,Internship
+Farhan,135,IT,8.9,"python, flask, mysql",Zoho,Backend Developer,6.0,2024,Job
+Geeta,136,CSE,8.6,"nlp, python, transformers",Google,NLP Engineer,14.5,2024,Job
+Sunil,137,CSE,8.8,"spring boot, java, sql",Infosys,Backend Developer,6.5,2024,Job
+Tanya,138,IT,8.3,"html, css, javascript, react",Capgemini,Frontend Developer,5.0,2025,Internship
+Dev,139,CSE,8.7,"cloud, aws, docker",Microsoft,DevOps Engineer,11.0,2024,Job
+Monika,140,MBA,8.5,"excel, business strategy, ppt",Deloitte,Business Analyst,9.0,2024,Job
+Suresh,141,CSE,9.2,"python, deep learning, pytorch",NVIDIA,AI Engineer,15.5,2024,Job
+Pallavi,142,IT,8.6,"php, wordpress, mysql",Wix,Web Developer,6.0,2024,Job
+Ashish,143,CSE,8.4,"react, redux, javascript",Infosys,Frontend Developer,6.0,2024,Job
+Kirti,144,IT,8.8,"flask, python, sql",Accenture,Backend Developer,6.5,2024,Job
+Parth,145,CSE,8.5,"java, hibernate, sql",Oracle,Java Developer,9.5,2024,Job
+Neha,146,CSE,8.9,"machine learning, python, keras",Google,ML Engineer,14.0,2024,Job
+Aditya,147,IT,8.7,"node.js, express, mongodb",IBM,Backend Developer,6.5,2025,Internship
+Shreya,148,CSE,8.3,"html, css, javascript, vue.js",Capgemini,Frontend Developer,5.5,2025,Internship
+Gaurav,149,CSE,8.8,"c++, dsa, algorithms",Amazon,Software Engineer,12.0,2024,Job
+Lakshmi,150,CSE,9.1,"cloud, azure, python",Microsoft,Cloud Engineer,12.5,2024,Job
